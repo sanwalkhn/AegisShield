@@ -1,3 +1,7 @@
+import mimetypes
+mimetypes.add_type("text/css", ".css")
+mimetypes.add_type("application/javascript", ".js")
+
 from flask import Flask
 from src.hybrid_waf.routes.main import main_bp
 from src.hybrid_waf.routes.proxy import proxy_bp  # Import proxy Blueprint
