@@ -1,4 +1,4 @@
-# WAFinity - Infinite Protection, Intelligent Detection
+git pull# WAFinity - Infinite Protection, Intelligent Detection
 
 **WAFinity** is an Advanced Web Application Firewall (WAF) that protects web applications from known threats such as SQL injection, Cross-Site Scripting (XSS), and other similar attacks by filtering and monitoring HTTP traffic between the application and the Internet.
 
@@ -22,20 +22,18 @@ In addition to signature-based detection, it uses **machine learning-based anoma
 ##  Output Screenshots
 
 <p float="left">
-    <img src="./output-screenshots/waf-ss1.png" width="400"/>
-    <img src="./output-screenshots/waf-ss2.png" width="400"/>
+    <img src="./output-screenshots/Output1.png" width="400"/>
+    <img src="./output-screenshots/Output%202.png" width="400"/>
 </p>
 
 <p float="left">
-    <img src="./output-screenshots/waf-ss3.png" width="400"/>
-    <img src="./output-screenshots/waf-ss4.png" width="400"/>
+    <img src="./output-screenshots/O3.png" width="400"/>
+    <img src="./output-screenshots/O4.png" width="400"/>
 </p>
 
 <p float="left">
-    <img src="./output-screenshots/waf-ss5.png" width="400"/>
-    <img src="./output-screenshots/waf-ss6.png" width="400"/>
+    <img src="./output-screenshots/O5.png" width="400"/>
 </p>
-
 
 ## Tech Stack
 
